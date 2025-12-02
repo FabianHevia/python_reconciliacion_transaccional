@@ -48,3 +48,12 @@ for c in contable:
 
 print("Coincidencias:", coinciden)
 print("Faltantes:", faltantes)
+
+'''
+Esto te da el resultado con una cuota de contable que te coincide en valor,
+pero no tiene porqué coincidir en un escenario real, en el cuál se tendría
+que medir en base a la cuenta de la cuál se realice x transacción, nombre,
+fecha y demás, este es un ejercicio simplificado que realiza el calculo
+correctamente.
+
+'''
